@@ -1,9 +1,7 @@
 ﻿/*
  * common.h
  *
- * Author: Ahmed Awara
- *
- * Date:	18/12/2018
+ * Author: Awara
  */ 
 
 #ifndef COMMON_H_
