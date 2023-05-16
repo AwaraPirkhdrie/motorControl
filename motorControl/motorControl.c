@@ -1,6 +1,4 @@
 /*
- * lab6.c
- *
  *  This program is for controlling a DC-Motor through PWM. 
  *
  * Created: 2019-01-15 08:21:16
